@@ -1,0 +1,18 @@
+COUNTA of Attrition,Attrition,,,,,,
+OverTime,No,Yes,Grand Total,,OverTime = No,,
+No,944,110,1054,,Employees who stayed = 944,,
+Yes,289,127,416,,Employees who left = 110,,
+Grand Total,1233,237,1470,,,,Total = 1054
+,,,,,Attrition Rate=1054/110​×100,,≈ 10.44%
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,OverTime = Yes,,
+,,,,,Employees who stayed = 289,,
+,,,,,Employees who left = 127,,
+,,,,,Total = 416,,
+,,,,,Attrition Rate=127/416×100,,≈ 30.53%
+,,,,,,,
+,,,,,"Employees who worked overtime had an attrition rate of 30.53%, compared to only 10.44% for employees who did not work overtime.",,
+,,,,,,,
+,,,,,This means employees working overtime were nearly 3 times more likely to leave the company.,,
