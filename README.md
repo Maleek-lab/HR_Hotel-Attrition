@@ -25,7 +25,7 @@ Exploratory Data Analysis (EDA) of employee attrition using Google Sheets to ide
 ### 🛠️ Strategic Recommendations based on EDA
 * **Implement Overtime Caps:** Review departments with high overtime metrics to redistribute workloads or scale up hiring, directly targeting the 30.53% attrition rate.
 * **Compensation Review:** Conduct structural salary benchmarks for roles falling below the `$5,000` monthly income threshold, as this represents the primary turnover risk window.
-img width="1366" height="768" alt="Screenshot 2026-06-04 121139" src="https://github.com/user-attachments/assets/dc17ebde-c204-47e8-83b8-f070cb3f424c" />
+<img width="1366" height="768" alt="Screenshot 2026-06-04 121139" src="https://github.com/user-attachments/assets/dc17ebde-c204-47e8-83b8-f070cb3f424c" />
 <img width="1366" height="768" alt="Screenshot 2026-06-04 121101" src="https://github.com/user-attachments/assets/3e6272f1-199b-45d7-9f57-9063412a3643" />
 <img width="1366" height="768" alt="Screenshot 2026-06-04 121050" src="https://github.com/user-attachments/assets/ac160178-27e0-466f-a69f-bd739f47f40b" />
 <img width="1366" height="768" alt="Screenshot 2026-06-04 121037" src="https://github.com/user-attachments/assets/c31ea9f5-b240-4eb6-b9fe-1c186d931485" />
